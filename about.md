@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Software Engeneer, Ruby on Rails developer, father, and more.
+Software Engineer, Ruby on Rails developer, husband, father, and more.
 
 ### Contact me
 
-[me@alfredoribeiro.com](mailto:me@alfredoribiero.com)
+[Linkedin Profile](https://br.linkedin.com/in/alfredoribeiro)
